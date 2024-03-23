@@ -1,6 +1,6 @@
-# eClair
-eClair Homelab Babysitter 
-status: early proof of concept
+# eClair - Homelab Babysitter  
+![Static Badge](https://img.shields.io/badge/status-prototpye-purple?style=flat)
+
 
 # idea
 discord bot running on server that reports
@@ -18,7 +18,7 @@ is there a widely used method for users to talk with their router? I know some h
 get fan speed in rust?
 
 
-To do
+# To do
 - [ ] implement
 	- [x] power up time
 	- [?] fan speed
